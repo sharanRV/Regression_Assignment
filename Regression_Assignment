@@ -1,0 +1,18 @@
+                                                      Assignment-Regression Algorithm
+
+Stage One:-Machine Learning
+Stage Two:-Supervised Learning
+Stage Three:-Regression
+Dataset:-
+No of Rows:-1338 Rows
+No of Columns:-6 columns
+PreProcessing Method:-
+converting string into Numbers(ordinal column ->Label Encounter)
+
+R2_score:
+1.Multiple Linear Regression-->0.7894790349867009
+2.Support Vector Machine->-0.08964553739867864
+3.Decision Tree-->0.7369048376670784
+4.Random Forest-->0.8439924679185786
+
+Best Model is Random Forest-->0.8439924679185786
